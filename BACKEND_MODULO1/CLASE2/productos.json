@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "mesa",
+    "precio": 800
+  },
+  {
+    "id": 2,
+    "nombre": "silla",
+    "precio": 500
+  },
+  {
+    "id": 3,
+    "nombre": "libro",
+    "precio": 80
+  },
+  {
+    "id": null,
+    "nombrre": "puerta",
+    "precio": 400
+  },
+  {
+    "id": null,
+    "nombrre": "puerta",
+    "precio": 400
+  },
+  {
+    "id": 6,
+    "nombrre": "puerta",
+    "precio": 400
+  }
+]
